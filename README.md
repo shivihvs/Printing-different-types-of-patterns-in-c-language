@@ -17,3 +17,19 @@ This project consist of the easiest ways to print different kinds of patterns in
  Example:
  if you have n =4 then in second row and second coloumn you get 4-1=3 becz minimum distance was 1 from left side.
  The above pattern shown is for input 4(that is n=4).
+ 
+ 
+ 2:-In the second problem we will print the type of pattern given below:
+                   
+                   
+                     *
+                     **
+                     ***
+                     ****
+                     *****
+                     ******
+                     *******
+                     ********
+                     (It is the pattern for value of n=8)
+                     
+    This kind of pattern can be easily printed using for loop.

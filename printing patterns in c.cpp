@@ -31,7 +31,7 @@ int main()
         }
         printf("\n");
     }
-  	// Complete the code to print the pattern.
+  
     return 0;
 }
 

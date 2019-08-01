@@ -8,6 +8,7 @@ int main()
 
     int n,i,j,min=0,k;
     int a[4];
+    printf("enter the value of n:");
     scanf("%d", &n);
     for(i=0;i<2*n-1;++i)
     {
